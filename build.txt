@@ -1,0 +1,3 @@
+author = Formotiis
+version = 0.1
+displayName = Dark God's Apostle
